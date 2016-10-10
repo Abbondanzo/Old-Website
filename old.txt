@@ -1,0 +1,2 @@
+SkittleCraft
+After creating the landing page for RolePlay Central (above), I assisted an interested client with the creation of his new Minecraft server, SkittlesCraft. He wanted a simple page with clickable images that led users to essential points on his forum. For a long time, a back-end PHP script had run queries and obtained player count so that new users could see just how many people were online at any given time, but the website eventually came to a close.
