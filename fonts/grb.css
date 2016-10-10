@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GothamRoundedBook';
+    src: url('gothamroundedbook.eot');
+    src: url('gothamroundedbook.eot') format('embedded-opentype'),
+         url('gothamroundedbook.woff2') format('woff2'),
+         url('gothamroundedbook.woff') format('woff'),
+         url('gothamroundedbook.ttf') format('truetype'),
+         url('gothamroundedbook.svg#GothamRoundedBook') format('svg');
+}
