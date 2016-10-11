@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en-us">
 <!-- Code solely created by Peter V. Abbondanzo. Copyright 2015. All rights reserved. -->
-<!-- Fun facts: This page began construction on September 22nd, 2015 for sh*ts and giggles -->
+<!-- Fun facts: This page construction began on September 22nd, 2015 for sh*ts and giggles -->
 <head>
 	<title>Website Developer & Graphic Designer | Peter V. Abbondanzo</title>
 	<meta name="description" content="A graphic designer and website developer with a lifetime of experience using Photoshop and HTML to bring beauty to the Internet. Contact me today!">
